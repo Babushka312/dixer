@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'product',
     'rest_framework',
     'rest_framework_simplejwt',
+    'django_heroku',
 ]
 
 MIDDLEWARE = [
